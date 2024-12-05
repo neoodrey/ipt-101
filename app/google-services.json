@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940783229911",
+    "project_id": "ipt-101-f6669",
+    "storage_bucket": "ipt-101-f6669.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940783229911:android:c65cb2d15851a93eabc992",
+        "android_client_info": {
+          "package_name": "com.example.seatwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGOJlH0goVD4fwEpqxdANEK4Js4zsS2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
